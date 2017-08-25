@@ -1,4 +1,4 @@
-# FT中文网可視化指引（簡體中文版）
+# FT中文网可視化指引（简体中文版）
 
  [Financial Times Visual Journalism Team](https://www.ft.com/visual-journalism)设计的「FT视觉图表指引海报」（Financial Times Visual Vocabulary）已提供[英文版](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf) 、 [日文版](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary-JP.pdf)与[网站](http://ft-interactive.github.io/visual-vocabulary/) ，能帮助设计师和记者，找出资料视觉化的最佳方式。这个视觉指引的灵感来自於Jon Schwabish与Severino Ribecca的[Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) 。
 
