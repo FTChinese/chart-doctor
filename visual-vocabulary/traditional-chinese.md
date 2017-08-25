@@ -1,3 +1,8 @@
+# FT中文網視覺圖表指引（繁體中文版）
+
+ [Financial Times Visual Journalism Team](https://www.ft.com/visual-journalism)設計的「FT視覺圖表指引海報」（Financial Times Visual Vocabulary）已提供[英文版](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf) 、 [日文版](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary-JP.pdf))與 [網站](http://ft-interactive.github.io/visual-vocabulary/) ，能幫助設計師、記者選擇出把資料視覺化的最佳方式。這個指引的靈感來自於Jon Schwabish、Severino Ribecca的設計的[Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) 。
+
+- - -
 
 ### 1.差異 
 
@@ -18,7 +23,7 @@ FT使用範例：
 
 #### 損益線圖
 
-#### 這類圖形的陰影區域能展示出數值的分布，也許是看數值離基準線的多寡或看兩個數列的分布傾向。
+這類圖形的陰影區域能展示出數值的分布，也許是看數值離基準線的多寡或看兩個數列的分布傾向。
 
 ### 2. 關係
 
